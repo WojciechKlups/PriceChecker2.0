@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: "PriceChecker"
+
+server:
+  port: "8081"
